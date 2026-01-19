@@ -1,1 +1,19 @@
-This assignment documents our group’s visit to Digital UTM, an initiative by Universiti Teknologi Malaysia that showcases innovation, digital transformation, and smart campus solutions. The project highlights the importance of technology in education, research, and community engagement.
+# UTMDigital Open Day
+
+## Title Sharing
+**DigiTechX 6 : Oracle Academy**
+
+## Event Details
+- **Date (Tarikh):** 29 October 2025 (Wednesday)  
+- **Time:** 10:15 AM – 11:15 AM  
+- **Venue:** Bilik Ruckus, Level 2  
+
+## Person In Charge (PIC)
+- **FC:** Dr. Shafaatunnur (04)  
+- **UTMD:** Pn Jiehan, Pn Zafirah  
+
+## Important Notes
+- Please **scan attendance** during the talk session.  
+- After the talk, proceed with **group members for Assignment 1**.  
+
+---
