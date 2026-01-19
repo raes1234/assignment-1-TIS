@@ -1,0 +1,1 @@
+This assignment documents our group’s visit to Digital UTM, an initiative by Universiti Teknologi Malaysia that showcases innovation, digital transformation, and smart campus solutions. The project highlights the importance of technology in education, research, and community engagement.
